@@ -18,3 +18,9 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+.search-input {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
